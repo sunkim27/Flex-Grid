@@ -81,9 +81,6 @@
   background: lightgray no-repeat url('images/ocean.jpg') 50% 50%;
 	background-size: cover;
 }
-.card-image img {
-	display: none;
-}
 .card-desc {
 	flex: 1 1 auto;
 	padding: 1em;
